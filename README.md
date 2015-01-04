@@ -3,6 +3,8 @@
 cd example
 node index.js
 ```
+open localhost:8080
+
 user:foo, pass:bar
 
 # term.js
