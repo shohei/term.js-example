@@ -1,3 +1,10 @@
+## how to use
+```
+cd example
+node index.js
+```
+user:foo, pass:bar
+
 # term.js
 
 A full xterm clone written in javascript. Used by
