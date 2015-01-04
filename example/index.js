@@ -9,7 +9,7 @@ var http = require('http')
   , express = require('express')
   , io = require('socket.io')
   , pty = require('pty.js')
-  , terminal = require('../');
+  , terminal = require('../lib/index.js');
 
 /**
  * term.js
